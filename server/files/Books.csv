@@ -1,0 +1,11 @@
+Id,title,author,image,price,stock,record,stop
+1,Bloated JabbaScript Frameworks,ismail1,bjsf,79.95,10,10,off
+2,Blaming the Architecture,ismail2,bta,79.95,10,10,off
+3,Blame the Other Guy,ismail3,btog,69.95,10,10,off
+4,Blaming the User,ismail4,btu,79.95,10,10,off
+5,Commenting Out Failed Tests,ismail5,coft,69.95,10,10,off
+6,Copying and Pasting from Stack Overflow,ismail6,cpso,69.95,10,10,off
+7,Changing Stuff and Seeing What Happens,ismail7,cswh,59.95,10,10,off
+8,Coding on the Weekend,ismail8,cw,49.95,10,10,off
+9,Doing it the Hard Way,ismail9,dihw,59.95,10,10,off
+10,Excuses to Miss Meetings,ismail10,emm,59.95,10,10,off
